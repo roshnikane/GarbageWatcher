@@ -7,6 +7,7 @@ Garbage containers in cities often overflow because they are not monitored regul
 we build a system if Garbage container getting overflow then system detect it and give the alert message to the municipal via the Email or the SMS ,traking the location of that garbage container then municiple flow that and collect the garbage , mark the system as clean the container by the municiple   
 ## What work has been done by others and fault in it
 Identifies the problem of garbage bin overflow caused by the absence of real-time monitoring and delayed municipal collection. The issue is addressed by using an alert-based system that detects overflow and informs authorities with location details for timely cleaning[1].
+
 Highlights inefficiencies in manual garbage monitoring and fixed collection routes, which lead to delayed waste removal. The proposed solution overcomes this by using a mobile-based system that enables location-based reporting and faster administrative action[2].
 ## Our Output
 
