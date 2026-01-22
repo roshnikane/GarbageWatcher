@@ -1,3 +1,2 @@
-Here will be list of the lib will be using for project, 
-create venv and install requirements.txt in it
-
+streamlit
+fastapi

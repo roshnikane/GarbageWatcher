@@ -1,1 +1,0 @@
-Here will be UI side things - Streamlit UI which will take image upload and on that inference will be done
