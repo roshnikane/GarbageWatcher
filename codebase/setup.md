@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### Client
 
 ```python
-streamlit run main.py
+streamlit run Home.py
 ```
 
 ### Server
